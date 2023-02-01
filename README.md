@@ -1,4 +1,2 @@
-# grayscale
-Template for single page website with space for large background images
+https://bravecourse.github.io/domestic-violence-and-more/
 
-Preview at https://bravecourse.github.io/grayscale/
